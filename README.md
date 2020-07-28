@@ -18,5 +18,5 @@ hello github
 
 ## Hello Github4
 
-[testinglink](https://github.com/MrBai257/-producttalking/blob/master/ce-shi-1.md)
+[产品第一讲](https://github.com/MrBai257/-producttalking/blob/master/ce-shi-1.md)
 
